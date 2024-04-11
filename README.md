@@ -1,4 +1,7 @@
 # Sample-Store-Analysis-using-Microsoft-Excel
+
+![Screenshot (74)](https://github.com/PranjalSarnaik21/Sample-Store-Analysis-using-Microsoft-Excel/assets/158582133/604025ed-5de5-40cf-a52b-0d9696076096)
+
 ## Overview:
 This project aims to analyze sales data from a sample store using Microsoft Excel. We utilize PivotTables and PivotCharts for data analysis and visualization.
 
